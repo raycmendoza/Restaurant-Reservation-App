@@ -1,5 +1,5 @@
 ## Live Deployed Frontend: https://restaurant-reservation-app-frontend-p6j1.onrender.com
-## Live Deployed Backend: https://dashboard.render.com/web/srv-cfqh9gqrrk08lt7ogsmg
+## Live Deployed Backend: https://restaurant-reservation-app-wd0y.onrender.com
 
 # Capstone: Restaurant Reservation System
 
